@@ -1,4 +1,4 @@
-package App07;
+package app07;
 import java.util.Random;
 
 public class Luta {
